@@ -1,3 +1,3 @@
-a=10
-b=20
+a=int(input('Enter 1st number: '))
+b=int(input('Enter 2nd number: '))
 print(a+b,"is summation")
